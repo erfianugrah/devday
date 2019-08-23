@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DevDay",
+    "description": "",
+    "home_page_url": "https://devday.erfianugrah.com",
+    "feed_url": "https://devday.erfianugrah.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Erfi Anugrah"
+    },
+    "items": [
+        {
+            "id": "https://devday.erfianugrah.com/cyberpunk-unsplash/",
+            "url": "https://devday.erfianugrah.com/cyberpunk-unsplash/",
+            "title": "Hello Multiverse",
+            "summary": "Sporadic randomness",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://devday.erfianugrah.com/media/posts/4/gallery/ryan-tang-ANJHXftvvJ8-unsplash.jpg\" ><img src=\"https://devday.erfianugrah.com/media/posts/4/gallery/ryan-tang-ANJHXftvvJ8-unsplash-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://devday.erfianugrah.com/media/posts/4/gallery/sean-foley-vjVStBBqDgU-unsplash.jpg\" ><img src=\"https://devday.erfianugrah.com/media/posts/4/gallery/sean-foley-vjVStBBqDgU-unsplash-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-bxUylPipWmM-unsplash.jpg\" ><img src=\"https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-bxUylPipWmM-unsplash-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-MYB2driCp2k-unsplash.jpg\" ><img src=\"https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-MYB2driCp2k-unsplash-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1151\"></a></figure>\n</div>\n<p>Sporadic randomness</p>",
+            "image": "https://devday.erfianugrah.com/media/posts/4/judging.gif",
+            "author": {
+                "name": "Erfi Anugrah"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-22T14:44:35+08:00",
+            "date_modified": "2019-08-23T12:14:56+08:00"
+        },
+        {
+            "id": "https://devday.erfianugrah.com/hello-universe/",
+            "url": "https://devday.erfianugrah.com/hello-universe/",
+            "title": "Hello Universe",
+            "summary": "Other days like this.",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img src=\"https://devday.erfianugrah.com/media/posts/2/nod.gif\" width=\"245\" height=\"256\">\n<figcaption >Other days like this.</figcaption>\n</figure>",
+            "image": "https://devday.erfianugrah.com/media/posts/2/excellent.gif",
+            "author": {
+                "name": "Erfi Anugrah"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-22T14:20:16+08:00",
+            "date_modified": "2019-08-22T15:52:54+08:00"
+        },
+        {
+            "id": "https://devday.erfianugrah.com/hello-world/",
+            "url": "https://devday.erfianugrah.com/hello-world/",
+            "title": "Hello World",
+            "summary": "I was born like this.",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img src=\"https://devday.erfianugrah.com/media/posts/1/123.gif\" width=\"400\" height=\"294\">\n<figcaption >I was born like this.</figcaption>\n</figure>",
+            "image": "https://devday.erfianugrah.com/media/posts/1/nod.gif",
+            "author": {
+                "name": "Erfi Anugrah"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-21T17:19:09+08:00",
+            "date_modified": "2019-08-22T15:52:44+08:00"
+        }
+    ]
+}
