@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>DevDay</title>
-    <link href="https://devday.erfianugrah.com/feed.xml" rel="self" />
-    <link href="https://devday.erfianugrah.com" />
-    <updated>2019-08-23T17:34:50+08:00</updated>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2019-10-23T09:53:12+08:00</updated>
     <author>
         <name>Erfi Anugrah</name>
     </author>
-    <id>https://devday.erfianugrah.com</id>
+    <id></id>
 
     <entry>
         <title>Hello Multiverse</title>
         <author>
             <name>Erfi Anugrah</name>
         </author>
-        <link href="https://devday.erfianugrah.com/cyberpunk-unsplash/"/>
-        <id>https://devday.erfianugrah.com/cyberpunk-unsplash/</id>
+        <link href="/cyberpunk-unsplash/"/>
+        <id>/cyberpunk-unsplash/</id>
 
         <updated>2019-08-23T12:14:56+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://devday.erfianugrah.com/media/posts/4/judging.gif" alt="" />
+                        <img src="/media/posts/4/judging.gif" alt="" />
                     Sporadic randomness
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://devday.erfianugrah.com/media/posts/4/judging.gif" alt="" />
+                    <img src="/media/posts/4/judging.gif" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://devday.erfianugrah.com/media/posts/4/gallery/ryan-tang-ANJHXftvvJ8-unsplash.jpg" ><img src="https://devday.erfianugrah.com/media/posts/4/gallery/ryan-tang-ANJHXftvvJ8-unsplash-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://devday.erfianugrah.com/media/posts/4/gallery/sean-foley-vjVStBBqDgU-unsplash.jpg" ><img src="https://devday.erfianugrah.com/media/posts/4/gallery/sean-foley-vjVStBBqDgU-unsplash-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-bxUylPipWmM-unsplash.jpg" ><img src="https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-bxUylPipWmM-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-MYB2driCp2k-unsplash.jpg" ><img src="https://devday.erfianugrah.com/media/posts/4/gallery/steven-roe-MYB2driCp2k-unsplash-thumbnail.jpg" alt="" width="768" height="1151"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/4/gallery/ryan-tang-ANJHXftvvJ8-unsplash.jpg" ><img src="/media/posts/4/gallery/ryan-tang-ANJHXftvvJ8-unsplash-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/4/gallery/sean-foley-vjVStBBqDgU-unsplash.jpg" ><img src="/media/posts/4/gallery/sean-foley-vjVStBBqDgU-unsplash-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/4/gallery/steven-roe-bxUylPipWmM-unsplash.jpg" ><img src="/media/posts/4/gallery/steven-roe-bxUylPipWmM-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="/media/posts/4/gallery/steven-roe-MYB2driCp2k-unsplash.jpg" ><img src="/media/posts/4/gallery/steven-roe-MYB2driCp2k-unsplash-thumbnail.jpg" alt="" width="768" height="1151"></a></figure>
 </div>
 <p>Sporadic randomness</p>
             ]]>
@@ -42,20 +42,20 @@
         <author>
             <name>Erfi Anugrah</name>
         </author>
-        <link href="https://devday.erfianugrah.com/hello-universe/"/>
-        <id>https://devday.erfianugrah.com/hello-universe/</id>
+        <link href="/hello-universe/"/>
+        <id>/hello-universe/</id>
 
         <updated>2019-08-22T15:52:54+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://devday.erfianugrah.com/media/posts/2/excellent.gif" alt="" />
+                        <img src="/media/posts/2/excellent.gif" alt="" />
                     Other days like this.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://devday.erfianugrah.com/media/posts/2/excellent.gif" alt="" />
-                <figure class="post__image post__image--center" ><img src="https://devday.erfianugrah.com/media/posts/2/nod.gif" width="245" height="256">
+                    <img src="/media/posts/2/excellent.gif" alt="" />
+                <figure class="post__image post__image--center" ><img src="/media/posts/2/nod.gif" width="245" height="256">
 <figcaption >Other days like this.</figcaption>
 </figure>
             ]]>
@@ -66,20 +66,20 @@
         <author>
             <name>Erfi Anugrah</name>
         </author>
-        <link href="https://devday.erfianugrah.com/hello-world/"/>
-        <id>https://devday.erfianugrah.com/hello-world/</id>
+        <link href="/hello-world/"/>
+        <id>/hello-world/</id>
 
         <updated>2019-08-22T15:52:44+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://devday.erfianugrah.com/media/posts/1/nod.gif" alt="" />
+                        <img src="/media/posts/1/nod.gif" alt="" />
                     I was born like this.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://devday.erfianugrah.com/media/posts/1/nod.gif" alt="" />
-                <figure class="post__image post__image--center" ><img src="https://devday.erfianugrah.com/media/posts/1/123.gif" width="400" height="294">
+                    <img src="/media/posts/1/nod.gif" alt="" />
+                <figure class="post__image post__image--center" ><img src="/media/posts/1/123.gif" width="400" height="294">
 <figcaption >I was born like this.</figcaption>
 </figure>
             ]]>
